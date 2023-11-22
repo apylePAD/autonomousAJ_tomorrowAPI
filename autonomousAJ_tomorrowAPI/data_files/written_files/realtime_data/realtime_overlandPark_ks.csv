@@ -1,0 +1,2 @@
+time,cloudBase,cloudCeiling,cloudCover,dewPoint,freezingRainIntensity,humidity,precipitationProbability,pressureSurfaceLevel,rainIntensity,sleetIntensity,snowIntensity,temperature,temperatureApparent,uvHealthConcern,uvIndex,visibility,weatherCode,windDirection,windGust,windSpeed
+2023-11-22T12:51:00Z,,,0.0,-4.19,0.0,83.0,0.0,984.1,0.0,0.0,0.0,-1.19,-1.19,0.0,0.0,16.0,1000.0,275.19,1.13,0.63
